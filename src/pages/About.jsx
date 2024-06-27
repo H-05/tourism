@@ -94,102 +94,102 @@ const About = () => {
 
                   <div className="ccardd__thumb">
                     <Slide direction='left'>
-                      <img className="animate" src={anugul} alt='anugul' />
+                      <img className="animate" src={adyarfalls} alt='anugul' />
                     </Slide></div>
 
                   <div className="ccardd__content">
                     <Slide direction='down'>
-                      <h3 className="ccardd__title">Anugul</h3>
+                      <h3 className="ccardd__title">Adyar Falls</h3>
                       <p className="ccardd__text">Angul district; also known as Anugul, is one of the thirty districts of Odisha in eastern India. The city of Angul is the district headquarters of Angul district. </p>
                     </Slide><a className="ccardd__btn" aria-label="Read more about ccardd Title 1" href="#">
-                      <img src={smll} alt='about' /></a>
+                      <img src={adyarfalls} alt='about' /></a>
                   </div>
 
                 </li>
                 <li className="ccardd">
                   <div className="ccardd__thumb">
                     <Slide direction='right'>
-                      <img className="animate" src={Balangir} alt='about'/>
+                      <img className="animate" src={kadri} alt='about'/>
                     </Slide>
                   </div>
                   <div className="ccardd__content">
                     <Slide direction='down'>
-                      <h3 className="ccardd__title">Balangir</h3>
+                      <h3 className="ccardd__title">Kadri</h3>
                       <p className="ccardd__text">Balangir District, also called Bolangir District, is a district situated in Odisha state of India. The district has an area of 6,575 km2 (2,539 sq mi), and a population of 1,648,997 (2011 census). </p>
                     </Slide><a className="ccardd__btn" aria-label="Read more about ccardd Title 2" href="#">
-                      <img src={smll} alt='about'/></a>
+                      <img src={kadri} alt='about'/></a>
                   </div>
                 </li>
                 <li className="ccardd">
                   <div className="ccardd__thumb">
                     <Slide direction='left'>
-                      <img className="animate" src={Balasore} alt='about'/></Slide></div>
+                      <img className="animate" src={kudrolli} alt='about'/></Slide></div>
                   <div className="ccardd__content">
                     <Slide direction='down'>
                       <h3 className="ccardd__title">Balasore</h3>
                       <p className="ccardd__text">Balasore District, also known as Baleswar District, is an administrative district of Odisha state, in eastern India. Balasore is one of the coastal districts of Odisha and lies on the northernmost part of the state.</p>
                     </Slide><a className="ccardd__btn" aria-label="Read more about ccardd Title 3" href="#">
-                      <img src={smll} alt='about' /></a>
+                      <img src={kudrolli} alt='about' /></a>
                   </div>
                 </li>
                 <li className="ccardd">
                   <div className="ccardd__thumb">
                     <Slide direction='right'>
-                      <img className="animate" src={Bargarh} alt='about'/></Slide></div>
+                      <img className="animate" src={kudrolli} alt='about'/></Slide></div>
                   <div className="ccardd__content">
                     <Slide direction='down'>
-                      <h3 className="ccardd__title">Bargarh</h3>
+                      <h3 className="ccardd__title">kudrolli</h3>
                       <p className="ccardd__text">Bargarh District is an administrative district of Odisha state in eastern India. The city of Bargarh is its district headquarters. The district was carved out of the erstwhile district of Sambalpur on 1 April 1993.</p>
                     </Slide><a className="ccardd__btn" aria-label="Read more about ccardd Title 3" href="#">
-                      <img src={smll} alt='about' /></a>
+                      <img src={kudrolli} alt='about' /></a>
                   </div>
                 </li>
                 <li className="ccardd">
                   <div className="ccardd__thumb">
                     <Slide direction='left'>
-                      <img style={{ height: '370px' }} className="animate" src={Bhadrak} alt='about'/></Slide></div>
+                      <img style={{ height: '370px' }} className="animate" src={lobosriver} alt='about'/></Slide></div>
                   <div className="ccardd__content">
                     <Slide direction='down'>
-                      <h3 className="ccardd__title">Bhadrak</h3>
+                      <h3 className="ccardd__title">Lobo's River View</h3>
                       <p className="ccardd__text">Bhadrak is a district of Odisha state in eastern India. Bhadrak city is the headquarters and the largest city of the district.</p>
-                    </Slide><a className="ccardd__btn" aria-label="Read more about ccardd Title 3" href="#"><img src={smll} alt='about' /></a>
+                    </Slide><a className="ccardd__btn" aria-label="Read more about ccardd Title 3" href="#"><img src={mangaladevi} alt='about' /></a>
                   </div>
                 </li>
                 <li className="ccardd">
                   <div className="ccardd__thumb">
                     <Slide direction='right'>
-                      <img className="animate" src={Boudh} alt='about'/></Slide></div>
+                      <img className="animate" src={mangaladevi} alt='about'/></Slide></div>
                   <div className="ccardd__content">
                     <Slide direction='down'>
-                      <h3 className="ccardd__title">Boudh</h3>
+                      <h3 className="ccardd__title">Mangaladevi Temple</h3>
                       <p className="ccardd__text">Boudh District is an administrative and a municipal district, one of the thirty in the Odisha, India. The district headquarters of the Boudh District is the city of Boudh.</p>
-                    </Slide><a className="ccardd__btn" aria-label="Read more about ccardd Title 3" href="#"><img src={smll} alt='about' /></a>
+                    </Slide><a className="ccardd__btn" aria-label="Read more about ccardd Title 3" href="#"><img src={mangaladevi} alt='about' /></a>
                   </div>
                 </li>
                 <li className="ccardd">
                   <div className="ccardd__thumb">
                     <Slide direction='left'>
-                      <img className="animate" src={cuttack} alt='about'/></Slide></div>
+                      <img className="animate" src={milagreschruch} alt='about'/></Slide></div>
                   <div className="ccardd__content">
                     <Slide direction='down'>
-                      <h3 className="ccardd__title">Cuttack</h3>
+                      <h3 className="ccardd__title">Milagres Chruch</h3>
                       <p className="ccardd__text">Cuttack district is one of the 30 districts of Odisha state in India. It is located in the coastal part of the state and its administrative headquarters are located in the city of Cuttack. As of 2011 Census, after Ganjam, it is the second most populous district of Odisha (out of 30), with a population of 2,624,470.</p>
-                    </Slide><a className="ccardd__btn" aria-label="Read more about ccardd Title 3" href="#"><img src={smll} alt='about' /></a>
+                    </Slide><a className="ccardd__btn" aria-label="Read more about ccardd Title 3" href="#"><img src={milagreschruch} alt='about' /></a>
                   </div>
                 </li>
                 <li className="ccardd">
                   <div className="ccardd__thumb">
                     <Slide direction='right'>
-                      <img style={{ height: '400px' }} className="animate" src={Debagarh} alt='about'/></Slide>
+                      <img style={{ height: '400px' }} className="animate" src={panamburbeach} alt='about'/></Slide>
                   </div>
                   <div className="ccardd__content">
                     <Slide direction='down'>
-                      <h3 className="ccardd__title">Debagarh </h3>
+                      <h3 className="ccardd__title">Panambur Beach </h3>
                       <p className="ccardd__text">Debagarh District also known as Deogarh District is a district of Odisha state, India. Located in the north-western part of the state, it is one of the 30 administrative districts and has its headquarters at Debagarh (Deogarh) town.</p>
-                    </Slide><a className="ccardd__btn" aria-label="Read more about ccardd Title 4" href="#"><img src={smll} alt='about' /></a>
+                    </Slide><a className="ccardd__btn" aria-label="Read more about ccardd Title 4" href="#"><img src={panamburbeach} alt='about' /></a>
                   </div>
                 </li>
-                <li className="ccardd">
+                {/* /*<li className="ccardd">
                   <div className="ccardd__thumb">
                     <Slide direction='left'>
                       <img className="animate" src={Dhenkanal} alt='about'/></Slide>
@@ -468,7 +468,7 @@ const About = () => {
                     </Slide><a className="ccardd__btn" aria-label="Read more about ccardd Title 2" href="#">
                       <img src={smll} alt='about' /></a>
                   </div>
-                </li>
+                </li> */}
               </ol>
             </div>
 
