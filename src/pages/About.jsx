@@ -1,35 +1,18 @@
 import React, { useState, useEffect } from "react";
 // import image from '../image/puritemple.jpg'
-import smll from '../image/odisha-sc.jpg'
-import anugul from '../image/ANUGUL.jpg'
-import Balangir from '../image/Balangir.jpg'
-import Balasore from '../image/Balasore.jpg'
-import Bargarh from '../image/Bargarh.jpg'
-import Bhadrak from '../image/Bhadrak.jpg'
-import Boudh from '../image/Boudh.jpg';
-import cuttack from '../image/Cuttack.JPG';
-import Debagarh from '../image/Debagarh.jpg';
-import Dhenkanal from '../image/Dhenkanal.jpg';
-import Gajapati from '../image/Gajapati.jpg';
-import Ganjam from '../image/ganjam.jpg';
-import Jagatsinghpur from '../image/Jagatsinghpur.jpg';
-import Jajpur from '../image/Dashashwamedh-Ghat-Jajpur.jpg';
-import Jharsuguda from '../image/Jharsuguda.jpg';
-import Kalahandi from '../image/Kalahandi.jpeg';
-import Kandhamal from '../image/Kandhamal.jpg';
-import Kendrapara from '../image/Kendrapara.jpg';
-import Khordha from '../image/Khordha.jpg';
-import Koraput from '../image/Koraput.jpg';
-import Malkangiri from '../image/Malkangiri.jpg';
-import Mayurbhanj from '../image/Mayurbhanj.jpg';
-import Nabarangpur from '../image/Nabarangpur.png';
-import Nayagarh from '../image/Nayagarh.jpg';
-import Nuapada from '../image/Nuapada.jpg';
-import Puri from '../image/Puri.jpg';
-import Rayagada from '../image/Rayagada.jpg';
-import Sambalpur from '../image/Sambalpur.jpg';
-import Subarnapur from '../image/Subarnapur.jpg';
-import Sundergarh from '../image/Sundergarh.jpg';
+import adyarfalls from  '../image/adyarfalls.jpg'
+import kadri from '../image/kadri.jpg'
+import kudrolli from '../image/kudrolli.jpg'
+import lobosriver from '../image/lobosriver.jpg'
+import managaladevi from '../image/mangaladevi.jpg'
+import milagreschruch from '../image/milagrescruch.jpg'
+import panumburbeach from '../image/panamburbeach.jpg';
+import pilikula from '../image/pilikula.JPG';
+import saripalla from '../image/saripalla.jpg';
+import staloysious from '../image/st.aloysious.jpg';
+import sulthan from '../image/sulthan.jpg';
+import suratkal from '../image/suratkal.jpg';
+
 import { Slide } from "react-awesome-reveal";
 import PulseLoader from "react-spinners/PulseLoader";
 
